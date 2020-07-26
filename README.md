@@ -1,2 +1,3 @@
-# data_algorithm
-数据结构算法
+# js-algorithm
+
+JavaScript 实现数据结构与算法
